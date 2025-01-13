@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+/ConstructorEngine/out/build/x64-debug
+/ConstructorEngine/.vs
+/.vs
